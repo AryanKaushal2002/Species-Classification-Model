@@ -36,5 +36,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - The Dogs vs. Cats dataset is provided by Kaggle.
 - The model architecture and implementation are inspired by various resources and tutorials in the field of deep learning.
 
-For more details and a step-by-step guide, refer to the [`Jupyter Notebook file`](species_classification.ipynb) in this repository.
+For more details and a step-by-step guide, refer to the [`Jupyter Notebook file`](Species_Calssification.ipynb) in this repository.
 
